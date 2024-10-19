@@ -1,6 +1,5 @@
 Sure! Here’s the updated README without the contributing section:
 
-````markdown
 # Frontend-Talent
 
 Welcome to the **Frontend-Talent** repository! This project showcases a collection of creative HTML and CSS user interface designs. Each design is crafted to demonstrate modern web development techniques and inspire fellow developers.
@@ -25,10 +24,10 @@ Welcome to the **Frontend-Talent** repository! This project showcases a collecti
 To get a local copy of this repository, follow these steps:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/JiruGutema/Frontend-Talent.git
    ```
-````
 
 2. Navigate to the project directory:
 
@@ -50,7 +49,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Created by [JiruGutema](https://github.com/jirugutema) - feel free to reach out for any inquiries or collaboration!
 
-```
-
 Feel free to customize it further if needed and to contribute it.
-```
